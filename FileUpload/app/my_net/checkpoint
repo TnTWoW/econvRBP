@@ -1,0 +1,2 @@
+model_checkpoint_path: "GLCNN.ckpt"
+all_model_checkpoint_paths: "GLCNN.ckpt"
